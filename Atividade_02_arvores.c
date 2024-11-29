@@ -1,3 +1,5 @@
+//ALUNO: LUCAS MARCO POROROCA BRANDÃO - 26142404
+
 #include <stdio.h>
 #include <stdlib.h>
 
